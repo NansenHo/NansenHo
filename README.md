@@ -42,7 +42,7 @@ app/api/top-langs/?username=nansenho&theme=buefy&layout=compact) -->
 
 <a href="mailto:song.he0302@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-song.he0302@gmail.com
 -222222?style=flat&logo=gmail&logoColor=white"></a>
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/nansen_123)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.cn/incareer/in/ACoAADXxN9gBxy5OCqhwowgOVL460Su1Ity58_M)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/15644490/nansen)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nansen_123)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/incareer/in/ACoAADXxN9gBxy5OCqhwowgOVL460Su1Ity58_M)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15644490/nansen)
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nansen_nansong/)

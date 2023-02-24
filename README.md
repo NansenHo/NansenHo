@@ -13,15 +13,16 @@ const Nansen = {
             bundler: ["Webpack", "Parcel"],
         },
         backEnd: {
-
+            
         },
     },
     language: {
-        English: "Basic",
-        Japanese: "Fluent",
-        Chinese: "Native",
+        english: "Basic",
+        japanese: "Fluent",
+        chinese: "Native",
     },
     hobbies: {
+        computerScience: ["Vim", "HKKB", "Mac"],
         sports: ["Cycling", "Ping-pong", "Badminton"],
     }
 };

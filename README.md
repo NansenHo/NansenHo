@@ -33,11 +33,8 @@ const Nansen = {
 app/api/top-langs/?username=nansenho&theme=buefy&layout=compact) -->
 
 ### 🌱 I’m currently learning ...
-- **You Don't Know JS Yet**
 - **Vue source code**
-- **React**
-- **TypeScript**
-- ...
+- **Frontend unit testing**
 
 ### 📫 How to reach me:
 

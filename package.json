@@ -1,0 +1,14 @@
+{
+  "name": "nansenho",
+  "scripts": {
+  },
+  "author": "Nansen",
+  "license": "MIT",
+  "dependencies": {
+    "super-tiny-icons": "^0.5.0",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2"
+  }
+}

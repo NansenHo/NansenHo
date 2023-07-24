@@ -3,7 +3,7 @@
 I'm working in Tokyo as a front end developer now, and I'm planning to transition into a full-stack role next year.
 
 - :seedling: I'm currently learning Mini-Vue & Java.
-- :heart_suit: I like eating :fish:, going :person_biking: and :skier:, playing :ping_pong: and :badminton:, cooking and taking photos.
+- :heart_suit: I like eating :fish:, going :biking_man: and :skier:, playing :ping_pong: and :badminton:, cooking and taking photos.
 - :globe_showing_americas: I can speak English, Chinese and Japanese. Chinese is my mother language.
 
 ---

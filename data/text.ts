@@ -1,15 +1,24 @@
-const intro: string = `
-### Hi there, I'm **Nansen Ho**.👋
+export const intro: string = `### Hi there, I'm **Nansen Ho**.👋
 
-### About me
+I'm working in Tokyo as a front end developer now, and I'm planning to transition into a full-stack role next year.
 
-I'm working in Tokyo as a frontend developer, and I'm planning to transition into a full-stack role next year.
+- :seedling: I'm currently learning Mini-Vue & Java.
+- :heart_suit: I like eating :fish:, going :person_biking: and :skier:, playing :ping_pong: and :badminton:, cooking and taking photos.
+- :globe_showing_americas: I can speak English, Chinese and Japanese. Chinese is my mother language.
 
-I'm currently learning Java & NodeJS & Mini-Vue.
+---
 
-You can speak Chinese (my mother language) and English and Japanese with me.
-`
+`;
 
-const end: string = `
+export const quote: string = `
 
-`
+> Additionally, I have created a script to automatically generate the list, and you can find the details in the [NansenHo/NansenHo](https://github.com/NansenHo/NansenHo).
+
+`;
+
+export const end: string = `---
+
+You can find how to contact me in the sidebar. You can follow me to find something more interesting.
+`;
+
+export const newlines: string = "\n\n";

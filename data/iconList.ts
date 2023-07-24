@@ -1,46 +1,33 @@
-type Icons = string[]
+type Icons = string[];
 
-type IconList = {
-	namespace: string
-	icons: Icons
-}[]
+export type IconList = {
+  namespace: string;
+  icons: Icons;
+}[];
 
-const iconList: IconList = [
-	{
-		namespace: 'languages',
-		icons: [
-			'javascript',
-			'typescript',
-			'html',
-			'css',
-			'sass',
-			'nodejs',
-			'java',
-		]
-	},
-	{
-		namespace: 'frameworks',
-		icons: [
-			'react',
-			'vue',
-			'next',
-		]
-	},
-	{
-		namespace: 'tools',
-		icons: [
-			'macos',
-			'visual-studio-code',
-			'vim',
-			'git',
-			'vite',
-		]
-	},
-	{
-		namespace: 'interested',
-		icons: [
-			'python',
-			'threejs',
-		]
-	}
-]
+export const iconList: IconList = [
+  {
+    namespace: "languages",
+    icons: [
+      "typescript",
+      "nodejs",
+      "javascript",
+      "html5",
+      "css3",
+      "sass",
+      "java",
+    ],
+  },
+  {
+    namespace: "frameworks",
+    icons: ["react", "vue"],
+  },
+  {
+    namespace: "tools",
+    icons: ["macos", "visual-studio-code", "git", "vim"],
+  },
+  {
+    namespace: "interested",
+    icons: ["threejs", "python", "go"],
+  },
+];

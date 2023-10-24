@@ -2,7 +2,7 @@
 
 I'm working in Tokyo as a front end developer now, and I'm planning to transition into a full-stack role next year.
 
-- :seedling: I'm currently learning Mini-Vue & Java.
+- :seedling: I'm currently learning [Python](https://github.com/NansenHo/TIL/tree/main/docs/python) & [Front-end Unit Test](https://github.com/NansenHo/TIL/tree/main/docs/front-end_test/front-end_unit_testing) & [Mini Vue](https://github.com/NansenHo/mini-vue).
 - :hearts: I like eating :fish:, going :biking_man: and :skier:, playing :ping_pong: and :badminton:, cooking and taking photos.
 - :earth_americas: I can speak English, Chinese and Japanese. Chinese is my mother language.
 
@@ -16,7 +16,6 @@ I'm working in Tokyo as a front end developer now, and I'm planning to transitio
 <code><img height="20" src="assets/svgs/html5.svg" alt="html5"/></code>
 <code><img height="20" src="assets/svgs/css3.svg" alt="css3"/></code>
 <code><img height="20" src="assets/svgs/sass.svg" alt="sass"/></code>
-<code><img height="20" src="assets/svgs/java.svg" alt="java"/></code>
 
 #### frameworks
 
@@ -34,7 +33,9 @@ I'm working in Tokyo as a front end developer now, and I'm planning to transitio
 
 <code><img height="20" src="assets/svgs/threejs.svg" alt="threejs"/></code>
 <code><img height="20" src="assets/svgs/python.svg" alt="python"/></code>
+<code><img height="20" src="assets/svgs/rust.svg" alt="rust"/></code>
 <code><img height="20" src="assets/svgs/go.svg" alt="go"/></code>
+<code><img height="20" src="assets/svgs/java.svg" alt="java"/></code>
 
 > Additionally, I have created a script to automatically generate the list, and you can find the details in the [NansenHo/NansenHo](https://github.com/NansenHo/NansenHo).
 

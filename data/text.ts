@@ -9,7 +9,7 @@ export const intro: string = `### Hi there, I'm **Nansen Ho**.👋
 I'm working in Tokyo as a front end developer now, and I'm planning to transition into a full-stack role next year.
 
 - :seedling: I'm currently learning ${python} & ${frontEndUnitTest} & ${miniVue}.
-- :hearts: I like eating :fish:, going :biking_man: and :skier:, playing :ping_pong: and :badminton:, cooking and taking photos.
+- :hearts: I like eating :fish:, going :biking_man:, playing :ping_pong: and :badminton:, cooking and taking photos.
 - :earth_americas: I can speak English, Chinese and Japanese. Chinese is my mother language.
 
 ---

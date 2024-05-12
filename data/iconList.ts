@@ -8,7 +8,15 @@ export type IconList = {
 export const iconList: IconList = [
   {
     namespace: "languages",
-    icons: ["typescript", "nodejs", "javascript", "html5", "css3", "sass"],
+    icons: [
+      "typescript",
+      "nodejs",
+      "javascript",
+      "html5",
+      "css3",
+      "sass",
+      "python",
+    ],
   },
   {
     namespace: "frameworks",
@@ -20,6 +28,6 @@ export const iconList: IconList = [
   },
   {
     namespace: "interested",
-    icons: ["threejs", "python", "rust", "go", "java"],
+    icons: ["aws", "rust", "threejs"],
   },
 ];

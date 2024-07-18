@@ -1,20 +1,10 @@
-const miniVue = "[Mini Vue](https://github.com/NansenHo/mini-vue)";
-const python =
-  "[Python](https://til-nansenho.netlify.app/docs/python/lxf/%E7%AE%80%E4%BB%8B)";
-const frontEndUnitTest =
-  "[Front-end Unit Test](https://til-nansenho.netlify.app/docs/test/frontend_unit_testing/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D)";
-const aws =
-  "[AWS](https://til-nansenho.netlify.app/docs/aws/clf/%E8%AE%A4%E8%AF%86aws/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%91%E8%AE%A1%E7%AE%97)";
-const rust =
-  "[Rust](https://til-nansenho.netlify.app/docs/rust/base/start/links)";
-
 export const intro: string = `### Hi there, I'm **Nansen Ho**.👋
 
 I'm working in Tokyo as a full stack developer now.
 
-- :seedling: I'm currently learning ${aws} & ${frontEndUnitTest} & ${rust}.
+- :seedling: I'm currently learning English and working on algorithm problems.
 - :hearts: I like eating :fish:, going :biking_man:, playing :ping_pong: and :badminton:, cooking and taking photos.
-- :earth_americas: I can speak English, Chinese and Japanese. Chinese is my mother language.
+- :earth_americas: I speak Chinese (native language) and Japanese (N1 level).
 
 ---
 

@@ -2,9 +2,9 @@
 
 I'm working in Tokyo as a full stack developer now.
 
-- :seedling: I'm currently learning [AWS](https://til-nansenho.netlify.app/docs/aws/clf/%E8%AE%A4%E8%AF%86aws/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%91%E8%AE%A1%E7%AE%97) & [Front-end Unit Test](https://til-nansenho.netlify.app/docs/test/frontend_unit_testing/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D) & [Rust](https://til-nansenho.netlify.app/docs/rust/base/start/links).
+- :seedling: I'm currently learning English and working on algorithm problems.
 - :hearts: I like eating :fish:, going :biking_man:, playing :ping_pong: and :badminton:, cooking and taking photos.
-- :earth_americas: I can speak English, Chinese and Japanese. Chinese is my mother language.
+- :earth_americas: I speak Chinese (native language) and Japanese (N1 level).
 
 ---
 
@@ -22,6 +22,7 @@ I'm working in Tokyo as a full stack developer now.
 
 <code><img height="20" src="assets/svgs/react.svg" alt="react"/></code>
 <code><img height="20" src="assets/svgs/vue.svg" alt="vue"/></code>
+<code><img height="20" src="assets/svgs/nextjs.svg" alt="nextjs"/></code>
 
 #### tools
 
@@ -33,7 +34,6 @@ I'm working in Tokyo as a full stack developer now.
 #### interested
 
 <code><img height="20" src="assets/svgs/aws.svg" alt="aws"/></code>
-<code><img height="20" src="assets/svgs/rust.svg" alt="rust"/></code>
 <code><img height="20" src="assets/svgs/threejs.svg" alt="threejs"/></code>
 
 > Additionally, I have created a script to automatically generate the list, and you can find the details in the [NansenHo/NansenHo](https://github.com/NansenHo/NansenHo).

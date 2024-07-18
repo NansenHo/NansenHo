@@ -20,7 +20,7 @@ export const iconList: IconList = [
   },
   {
     namespace: "frameworks",
-    icons: ["react", "vue"],
+    icons: ["react", "vue", "nextjs"],
   },
   {
     namespace: "tools",
@@ -28,6 +28,6 @@ export const iconList: IconList = [
   },
   {
     namespace: "interested",
-    icons: ["aws", "rust", "threejs"],
+    icons: ["aws", "threejs"],
   },
 ];

@@ -2,7 +2,7 @@ export const intro: string = `### Hi there, I'm **Nansen Ho**.👋
 
 I'm working in Tokyo as a full stack developer now.
 
-- :seedling: I'm currently learning English and working on algorithm problems.
+- :seedling: I'm currently learning English, studying React 19, and working on algorithm problems.
 - :hearts: I like eating :fish:, going :biking_man:, playing :ping_pong: and :badminton:, cooking and taking photos.
 - :earth_americas: I speak Chinese (native language) and Japanese (N1 level).
 

@@ -24,10 +24,10 @@ export const iconList: IconList = [
   },
   {
     namespace: "tools",
-    icons: ["aws", "git", "vim", "visual-studio-code", "macos"],
+    icons: ["aws", "git", "vim", "hhkb", "visual-studio-code", "macos"],
   },
   {
     namespace: "interested",
-    icons: ["rust", "go", "ruby"],
+    icons: ["ruby", "rust", "go"],
   },
 ];
